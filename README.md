@@ -86,24 +86,6 @@ I'm a Full Stack Developer with 3+ years of experience, specializing in crafting
 
 ---
 
-## 💼 Experience
-
-| Period | Company | Role |
-|--------|---------|------|
-| Jan 2025 → Present | **Smarter.codes** | Full Stack Engineer |
-| Sep 2022 → Jun 2024 | **Simbo.ai** | Full Stack Developer |
-| Jun 2022 → Aug 2022 | **Simbo.ai** | Full Stack Developer Intern |
-| Aug 2020 → Mar 2021 | **Saanich Technologies** | PHP Developer Intern |
-
----
-
-## 🎓 Education
-
-- **MCA** — Vivekananda Institute of Professional Studies (2019–2021)
-- **BCA** — Vivekananda Institute of Professional Studies (2016–2019)
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MaansiBisht&style=flat-square&color=2563eb" alt="Profile views" />
 </p>
