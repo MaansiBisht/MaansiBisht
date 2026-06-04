@@ -82,8 +82,6 @@ I'm a Full Stack Developer with 3+ years of experience, specializing in crafting
 | [**PR Reviewer**](https://github.com/MaansiBisht/pr-reviewer) | Local AI-powered PR reviewer — runs offline with any self-hosted LLM | Python, Git, Ollama |
 | [**Semantic Image Search**](https://github.com/MaansiBisht/semantic-image-search) | AI-powered semantic image search with natural language queries | Next.js, React, TypeScript, Tailwind |
 | [**LocalLlama**](https://github.com/MaansiBisht/LocalLlama) | RAG system for querying local codebases with pgvector | Node.js, TypeScript, PostgreSQL, pgvector |
-| [**Orkastra**](https://github.com/MaansiBisht/orkastra) | Chatbot orchestration platform — design, deploy & manage multiple AI bots | TypeScript, Fastify, Redis, pnpm monorepo |
-
 ---
 
 <p align="center">
