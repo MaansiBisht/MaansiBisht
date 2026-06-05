@@ -13,7 +13,7 @@ I'm a Full Stack Developer with 3+ years of experience, specializing in crafting
 
 ## ⚡ About Me
 
-- 🔭 Currently working as **Full Stack Engineer** at **Smarter.codes**
+- 🔭 **Full Stack Engineer**
 - 🏗️ 3+ years experience | 10+ shipped projects | 5+ tech domains
 - 🌍 Based in **New Delhi, India** · Open to remote
 - 🧠 Passionate about clean code, system design, and developer tooling
