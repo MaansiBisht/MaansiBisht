@@ -71,19 +71,6 @@ I'm a Full Stack Developer with 3+ years of experience, specializing in crafting
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**SprintIQ**](https://github.com/MaansiBisht/SprintIQ) | AI-powered Jira ticket assignment engine — scores tickets across expertise, similarity, workload & fairness | Next.js, TypeScript, Node.js, PostgreSQL |
-| [**SwiftChat**](https://github.com/MaansiBisht/SwiftChat) | Secure real-time chat app with E2E encryption | React, Node.js, Express, MongoDB, WebSockets |
-| [**DealTracker**](https://github.com/MaansiBisht/DealTracker) | Self-hosted deal tracking with scraping, Telegram alerts & SSE live logs | Python, FastAPI, React 19, Docker |
-| [**GitScale**](https://github.com/MaansiBisht/gitscale) | Instantly calculates GitHub repo sizes with relatable comparisons | Next.js, React, TypeScript, GitHub API |
-| [**PR Reviewer**](https://github.com/MaansiBisht/pr-reviewer) | Local AI-powered PR reviewer — runs offline with any self-hosted LLM | Python, Git, Ollama |
-| [**Semantic Image Search**](https://github.com/MaansiBisht/semantic-image-search) | AI-powered semantic image search with natural language queries | Next.js, React, TypeScript, Tailwind |
-| [**LocalLlama**](https://github.com/MaansiBisht/LocalLlama) | RAG system for querying local codebases with pgvector | Node.js, TypeScript, PostgreSQL, pgvector |
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MaansiBisht&style=flat-square&color=2563eb" alt="Profile views" />
 </p>
